@@ -99,12 +99,12 @@ import * as firebase from 'firebase';
 
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyC1pFZzY3w0zT7hB2hcc6zhLwYgaK0MhvQ",
-  authDomain: "mane-4152c.firebaseapp.com",
-  databaseURL: "https://mane-4152c.firebaseio.com",
-  projectId: "mane-4152c",
-  storageBucket: "mane-4152c.appspot.com",
-  messagingSenderId: "446057524325"
+  apiKey: "xx",
+  authDomain: "xx",
+  databaseURL: "xx",
+  projectId: "xx",
+  storageBucket: "xx",
+  messagingSenderId: "xx"
 }
 
 const SWIPER_CONFIG: SwiperConfigInterface = {
